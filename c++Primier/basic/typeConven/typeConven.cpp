@@ -26,28 +26,36 @@ int main(){
     cout << c1 <<endl;   
 
     //unsigned also effectes the loop. 
-    for( unsigned int i =0; i > -10 ; i--){
+    for( unsigned int c =0; c > -10 ; c--){
 
-
+        cout << "unsigned int i " << c << endl;
 
     }
+
+     for(int a =0; a > -10 ; a--){
+
+        cout << "signed int i " << a << endl;
+
+    }
+
     
     // signed char is -128 to 127
+    //not printed properly , error. 
     signed char c2 = 256;
     cout << c2 <<endl;   
 
 
 
-    int i =42;
+    int j =42;
     // if the value of the i is 0 then the condition is false, else , the condition is true. 
+    
     if(i) {
-    i =0;
-    cout << i << endl;
+    j =0;
+    cout << j << endl;
 
     }
 
 
-   
 
 
 

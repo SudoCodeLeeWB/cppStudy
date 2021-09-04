@@ -63,7 +63,6 @@
         "vector": "cpp"
     },
     "editor.fontFamily": "Cartograph CF ,고도 B, Menlo, Monaco, 'Courier New', monospace ",
-    "editor.fontSize": 13,
     "[json]": {
 
 
@@ -75,5 +74,6 @@
             "document"
         ]
     },
-    "editor.mouseWheelZoom": true
+    "editor.mouseWheelZoom": true,
+    "window.zoomLevel": -0.2
 }
