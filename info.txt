@@ -2,4 +2,5 @@
 init for git , using ssh connection. 
 1. Vscode setting, debugging, build file setting : 8/28 sat
 
-2.
+2. init the git repo , reconnect the repo with ssh connection. 
+ 

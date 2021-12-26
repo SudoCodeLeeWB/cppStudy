@@ -1,5 +1,6 @@
 {
     "recommendations": [
-        "liviuschera.noctis"
+        "liviuschera.noctis",
+        "ms-vscode.cpptools"
     ]
 }
